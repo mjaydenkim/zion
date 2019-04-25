@@ -39,70 +39,69 @@ class Index extends React.Component {
         </Waypoint>
         <Nav sticky={this.state.stickyNav} />
 
-//         <div id="main">
+        <div id="main">
 
-//           <section id="intro" className="main">
-//             <div className="spotlight">
-//               <div className="content">
-//                 <header className="major">
-//                   <h2>Rock Cycle Geologist</h2>
-//                 </header>
-//                 <p>This part was created by Chihiro.</p>
-//                 <ul className="actions">
-//                   <li><Link to="/generic" className="button">See it</Link></li>
-//                 </ul>
-//               </div>
-//               <span className="image"><img src={pic01} alt="" /></span>
-//             </div>
-//           </section>
+          <section id="intro" className="main">
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Rock Cycle Geologist</h2>
+                </header>
+                <p>This part was created by Chihiro.</p>
+                <ul className="actions">
+                  <li><Link to="/generic" className="button">See it</Link></li>
+                </ul>
+              </div>
+              <span className="image"><img src={pic01} alt="" /></span>
+            </div>
+          </section>
 
-//           <section id="first" className="main special">
-//             <div className="spotlight">
-//               <div className="content">
-//                 <header className="major">
-//                   <h2>Energy Flow Geophysicist</h2>
-//                 </header>
-//                 <p>This part was created by Maddox.</p>
-//                 <ul className="actions">
-//                   <li><Link to="/generic" className="button">See it</Link></li>
-//                 </ul>
-//               </div>
-//               <span className="image"><img src={pic01} alt="" /></span>
-//             </div>
-//           </section>
+          <section id="first" className="main special">
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Energy Flow Geophysicist</h2>
+                </header>
+                <p>This part was created by Maddox.</p>
+                <ul className="actions">
+                  <li><Link to="/generic" className="button">See it</Link></li>
+                </ul>
+              </div>
+              <span className="image"><img src={pic01} alt="" /></span>
+            </div>
+          </section>
 
-//           <section id="second" className="main special">
-//             <div className="spotlight">
-//               <div className="content">
-//                 <header className="major">
-//                   <h2>Rock Formation Historian</h2>
-//                 </header>
-//                 <p>This part was created by Matthew.</p>
-//                 <ul className="actions">
-//                   <li><Link to="/generic" className="button">See it</Link></li>
-//                 </ul>
-//               </div>
-//               <span className="image"><img src={pic01} alt="" /></span>
-//             </div>
-//             </footer>
-//           </section>
+          <section id="second" className="main special">
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Rock Formation Historian</h2>
+                </header>
+                <p>This part was created by Matthew.</p>
+                <ul className="actions">
+                  <li><Link to="/generic" className="button">See it</Link></li>
+                </ul>
+              </div>
+              <span className="image"><img src={pic01} alt="" /></span>
+            </div>
+          </section>
 
-//           <section id="cta" className="main special">
-//             <div className="spotlight">
-//               <div className="content">
-//                 <header className="major">
-//                   <h2>Rock Ranger</h2>
-//                 </header>
-//                 <p>This part was created by Georgia.</p>
-//                 <ul className="actions">
-//                   <li><Link to="/generic" className="button">See it</Link></li>
-//                 </ul>
-//               </div>
-//               <span className="image"><img src={pic01} alt="" /></span>
-//             </div>
-//           </section>
+          <section id="cta" className="main special">
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Rock Ranger</h2>
+                </header>
+                <p>This part was created by Georgia.</p>
+                <ul className="actions">
+                  <li><Link to="/generic" className="button">See it</Link></li>
+                </ul>
+              </div>
+              <span className="image"><img src={pic01} alt="" /></span>
+            </div>
+          </section>
 
-//         </div>
+        </div>
 
       </Layout>
     )
