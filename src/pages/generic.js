@@ -12,68 +12,28 @@ class Generic2 extends React.Component {
       <Layout>
         <Helmet title="Rock Formation Historian" />
         <header id="header">
-          <h1>Rock Formation Historian</h1>
-          <p>This part was created by Matthew.</p>
+          <h1>Rock Cycle Geologist</h1>
+          <p>This part was created by Chihiro.</p>
       </header>
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic01} alt="" /></span>
-              <h1 id="sedimentation">Sedimentation:</h1>
+              <h1 id="backgroundinformation">Background Information</h1>
+                <p>There are three types of rock: <strong>igneous</strong> rock, <strong>sedimentary</strong> rock, and <strong>metamorphic</strong> rock. </p>
                 <ul>
-                <li>240M years ago, Zion was a relatively flat basin near sea level</li>
+                <li><strong>Igneous</strong> rocks such as Basalt, Granite, and Obsidian are rocks formed from the cooling and hardening of magma. As it gets hot, molten rock rises to the surface and it undergoes changes in temperature and pressure that cause it to cool, solidify, and crystallize. </li>
 
-                <li>Sand, gravel, mud eroded from surrounding mts.</li>
+                <li><strong>Sedimentary</strong> rocks such as Conglomerate, Limestone, and Sandstone are formed by particles of rocks, minerals, animals or plant material.</li>
 
-                <li>Streams carried these materials into the basin</li>
-
-                <li>Deposited in layers</li>
-
-                <li>The weight caused the basin to sink</li>
-
-                <li>Top layer kept at sea level</li>
-
-                <li>Massive sedimentation collection created ~10K feet deep</li>
+                <li><strong>Metamorphic</strong> rocks such as Gneiss, Marble, and Quartzite are formed by physical or chemical alteration by heat and pressure of an existing igneous or sedimentary material into a denser form.</li>
                 </ul>
 
-                <h1 id="lithification">Lithification:</h1>
+                <p><strong>Sediment</strong> is loose pieces of minerals and rocks. 
+                <strong>Magma</strong> is hot, liquid rock found deep inside the earth. </p>
 
-                <ul>
-                <li>Waters with minerals filtered through sediments</li>
+                <p>It takes a lot of heat to melt a rock. The rock is pulled down by movements in the earth's crust and gets hotter and hotter as it goes deeper. Then it melts and turns into a magma. </p>
 
-                <li>Iron oxide, Calcium carbonate, Silica- cementing agents</li>
-
-                <li>Transformed deposits into different kinds of stone</li>
-
-                <li>“Ancient seabeds became limestone; mud and clay became mudstones and shale, and desert sand became sandstone.”- NPS</li>
-                </ul>
-
-                <h1 id="uplift">Uplift</h1>
-
-                <ul>
-                <li>Forces deep within Earth push its surface up</li>
-
-                <li>Slow hoisting of huge blocks of crust</li>
-
-                <li>Zion’s elevation rose from sea level to ~10K feet high</li>
-
-                <li>Uplift is still occurring today</li>
-                </ul>
-
-                <h1 id="erosion">Erosion</h1>
-
-                <ul>
-                <li>Zion uplift caused streams to tumble off the plateau, flowing rapidly down a steep gradient</li>
-
-                <li>Streams (which had sediment and boulders) eroded and cut into rock layers</li>
-
-                <li>This formed deep, narrow canyons</li>
-
-                <li>North Fork of Virgin River has carried away a lot of rock</li>
-
-                <li>The Virgin River still excavating</li>
-
-                <li>Still widening/creating canyons</li>
-                </ul>
+                <p><strong>Lava</strong> which is magma rises from deep within the earth and explodes out of a volcano and cools quickly on the surface.</p>
           </section>
         </div>
       </Layout>
