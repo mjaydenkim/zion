@@ -17,7 +17,7 @@ class Generic3 extends React.Component {
       </header>
         <div id="main">
           <section id="content" className="main">
-            <span className="image main"><img src={pic04} alt="" /></span>
+            <span className="image main"><img src={pic02} alt="" /></span>
               <h1 id="sedimentation">Sedimentation:</h1>
                 <ul>
                 <li>240M years ago, Zion was a relatively flat basin near sea level</li>
