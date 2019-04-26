@@ -12,68 +12,20 @@ class Generic4 extends React.Component {
       <Layout>
         <Helmet title="Rock Formation Historian" />
         <header id="header">
-          <h1>Rock Formation Historian</h1>
-          <p>This part was created by Matthew.</p>
+          <h1>Rock Ranger</h1>
+          <p>This part was created by Georgia.</p>
       </header>
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic03} alt="" /></span>
-              <h1 id="sedimentation">Sedimentation:</h1>
-                <ul>
-                <li>240M years ago, Zion was a relatively flat basin near sea level</li>
+              <p>Around 240 million years ago, Zion was a pretty flat valley whose elevation was around sea level’s. Nearby bodies of water carried sand, gravel, and mud from all around through the gully. The sand, gravel, and mud all collected in the bottom, in layers. This represents sediment being collected in the rock cycle. </p>
 
-                <li>Sand, gravel, mud eroded from surrounding mts.</li>
+              <pre><code>These layers weighed down the basin, causing it to sink. The surface remained close to sea level. The environment fluctuated, its cause being climate change. The land rose and fell, becoming a coastal plane at one point, a shallow sea at another, and a desert at yet one more. According to Springdale Zion National Park, “This process, called sedimentation, continued until over 10,000 feet of material accumulated.” This represents sediment being compacted in the rock cycle. The sediment transforms into sedimentary rock after being compressed. 
 
-                <li>Streams carried these materials into the basin</li>
+              With minerals dissolved in the water, it “slowly filtered through the compacted sediment layers. Working as cementing agents, iron oxide, calcium carbonate, and silica transformed layers into stone over extensive periods of time,” Springdale Zion National Park says. The old seabeds began to turn into limestone, clay and mud became mudstones or shale, while sand from the desert became sandstone. Each layer of rock originated from a different place, causing the layers to have different thicknesses, colors, and textures. They have different mineral content, as well. Under pressure, metamorphic rock is created.
 
-                <li>Deposited in layers</li>
-
-                <li>The weight caused the basin to sink</li>
-
-                <li>Top layer kept at sea level</li>
-
-                <li>Massive sedimentation collection created ~10K feet deep</li>
-                </ul>
-
-                <h1 id="lithification">Lithification:</h1>
-
-                <ul>
-                <li>Waters with minerals filtered through sediments</li>
-
-                <li>Iron oxide, Calcium carbonate, Silica- cementing agents</li>
-
-                <li>Transformed deposits into different kinds of stone</li>
-
-                <li>“Ancient seabeds became limestone; mud and clay became mudstones and shale, and desert sand became sandstone.”- NPS</li>
-                </ul>
-
-                <h1 id="uplift">Uplift</h1>
-
-                <ul>
-                <li>Forces deep within Earth push its surface up</li>
-
-                <li>Slow hoisting of huge blocks of crust</li>
-
-                <li>Zion’s elevation rose from sea level to ~10K feet high</li>
-
-                <li>Uplift is still occurring today</li>
-                </ul>
-
-                <h1 id="erosion">Erosion</h1>
-
-                <ul>
-                <li>Zion uplift caused streams to tumble off the plateau, flowing rapidly down a steep gradient</li>
-
-                <li>Streams (which had sediment and boulders) eroded and cut into rock layers</li>
-
-                <li>This formed deep, narrow canyons</li>
-
-                <li>North Fork of Virgin River has carried away a lot of rock</li>
-
-                <li>The Virgin River still excavating</li>
-
-                <li>Still widening/creating canyons</li>
-                </ul>
+              Lastly, Zion was lifted up into the massive canyon it is today, and continues to be. The process is naturally occurring and is called uplift. This is when a vertical push forces pieces of the crust apart and upward. In Zion’s case, about 10,000 feet above sea level. (Zion rested at sea level before this occurred.)
+              </code></pre>
           </section>
         </div>
       </Layout>
