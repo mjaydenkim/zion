@@ -10,7 +10,7 @@ class Generic4 extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Rock Formation Historian" />
+        <Helmet title="Rock Ranger" />
         <header id="header">
           <h1>Rock Ranger</h1>
           <p>This part was created by Georgia.</p>
