@@ -44,7 +44,7 @@ class Index extends React.Component {
 
         <div id="main">
 
-          <section id="intro" className="main">
+          <section id="intro" className="main special">
             <div className="spotlight">
               <div className="content">
                 <header className="major">
@@ -67,7 +67,7 @@ class Index extends React.Component {
                 </header>
                 <p>This part was created by Maddox.</p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">See it</Link></li>
+                  <li><Link to="/generic2" className="button">See it</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={pic02} alt="" /></span>
@@ -82,7 +82,7 @@ class Index extends React.Component {
                 </header>
                 <p>This part was created by Matthew.</p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">See it</Link></li>
+                  <li><Link to="/generic3" className="button">See it</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={pic04} alt="" /></span>
@@ -97,7 +97,7 @@ class Index extends React.Component {
                 </header>
                 <p>This part was created by Georgia.</p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">See it</Link></li>
+                  <li><Link to="/generic4" className="button">See it</Link></li>
                 </ul>
               </div>
               <span className="image"><img src={pic03} alt="" /></span>
