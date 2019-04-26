@@ -10,10 +10,10 @@ class Generic3 extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Rock Formation Historian" />
+        <Helmet title="Rock Cycle Geologist" />
         <header id="header">
-          <h1>Rock Formation Historian</h1>
-          <p>This part was created by Matthew.</p>
+          <h1>Rock Cycle Geologist</h1>
+          <p>This part was created by Chihiro.</p>
       </header>
         <div id="main">
           <section id="content" className="main">
