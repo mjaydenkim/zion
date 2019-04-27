@@ -49,14 +49,6 @@ class Generic2 extends React.Component {
 <li><p><strong>Deformation</strong> is to strain. A strain is a change in size, shape, or volume of a material. Crystallization involves the formation of solid crystals from a homogeneous solution.</p></li>
 
 <li><p>It is based on the principles of solubility: compounds (solutes) tend to be more soluble in hot liquids (solvents) than they are in cold liquids. If a saturated hot solution is allowed to cool, the solute is no longer soluble in the solvent and forms crystals of pure compound.</p></li>
-
-<li><p><strong>Deposition:</strong> Dropping of sediment in a new place.</p></li>
-
-<li><p><strong>Sedimentation</strong> is when eroded sediments end up in the water and begin to settle.</p></li>
-
-<li><p><strong>Heat and Pressure:</strong> Temperature increases can be caused by layers of sediments being buried deeper and deeper under the surface of the Earth. Pressure is caused by the huge weight of overlying layers of sediments, plates colliding in the process of mountain building and plates sliding past each other.</p></li>
-
-<li><p><strong>Deformation</strong> is to strain. A strain is a change in size, shape, or volume of a material. </p></li>
 </ul>
           </section>
         </div>
