@@ -13,7 +13,7 @@ class Generic3 extends React.Component {
         <Helmet title="Rock Cycle Geologist" />
         <header id="header">
           <h1>Rock Cycle Geologist</h1>
-          <p>This part was created by Chihiro.</p>
+          <p>This part was created by Maddox.</p>
       </header>
         <div id="main">
           <section id="content" className="main">
